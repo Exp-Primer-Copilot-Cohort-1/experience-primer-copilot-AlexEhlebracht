@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // start server: node comments.js
 // test: http://localhost:8080/comments
 
